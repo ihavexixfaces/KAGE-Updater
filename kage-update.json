@@ -1,6 +1,7 @@
 ﻿{
-    "buildId":  1789350963,
+    "buildId":  1789352667,
     "package":  "KAGE-Update.zip",
-    "sha256":  "19bc81f949d9c78bfd6fd7b9baa281850140ee9f10c793929dc7b25be0f021ec",
-    "size":  2964421
+    "sha256":  "e03dddcba8a3313b2c7b84b69170941794e830a28af54c6b5de4d6e627d9a943",
+    "executableSha256":  "fe9fcfdd2e8cd25de903b7ee51a67685fac97d648ed9434dd6ec8f1e7a0e43c9",
+    "size":  2970317
 }
